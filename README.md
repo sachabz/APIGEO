@@ -1,10 +1,10 @@
 # apigeo
 
 ## About apigeo
-2048 is a web project created in on day for a school project
+apigeo is a web project created in on day for a school project
 
 ## Created with
-- vuejs, bootstrap
+- vuejs, bootstrap, API from the gouvernement
 
 ## Langages
 - CSS3, HTML5, 

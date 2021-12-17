@@ -1,5 +1,26 @@
 # apigeo
 
+## About apigeo
+2048 is a web project created in on day for a school project
+
+## Created with
+- vuejs, bootstrap
+
+## Langages
+- CSS3, HTML5, 
+- js
+
+## Fonctionnalités
+- Responsive
+
+## Versionnement
+Version 1
+
+## Auteur
+Sacha Blin Zwertvaegher,
+Student of the Coding academy by Epitech
+
+
 ## Project setup
 ```
 npm install
